@@ -86,6 +86,12 @@ copilot mcp add ckan npx @aborruso/ckan-mcp-server@latest
 gemini mcp add ckan npx @aborruso/ckan-mcp-server@latest
 ```
 
+#### Claude CLI
+
+```bash
+claude mcp add ckan -- npx -y @aborruso/ckan-mcp-server@latest
+```
+
 ### IDEs & Code Editors
 
 #### Copilot / VS Code
